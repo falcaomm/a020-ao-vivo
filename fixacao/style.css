@@ -5,19 +5,19 @@
 }
 
 .um, header{
-    background-color: #f26419;
+    background-color: #c4c9ff;
     height: 50px;
     padding-left: 10px;
     padding-top: 10px;
 }
 
 .dois, main{
-   background-color: #f6ae2d;
+   background-color: #ebe7ff;
    display: flex;
    flex-direction: row;
    padding: 20px;
    align-items: stretch;
-   color: wheat;
+   color: rgb(71, 46, 0);
 }
 
 .tres, section{
